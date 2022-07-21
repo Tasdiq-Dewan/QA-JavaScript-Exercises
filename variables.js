@@ -1,3 +1,4 @@
+//ex 1
 let a;
 let b = "12345";
 let c = 12344;
@@ -10,6 +11,7 @@ console.log(typeof(c));
 console.log(typeof(d));
 console.log(typeof(e));
 
+//ex 2
 let totalMoney = 4000;
 let moneyPaidSoFar = 2348;
 let totalLeftToPay = totalMoney - moneyPaidSoFar;
